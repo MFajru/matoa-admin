@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Taviraj";
+}
+
+.dark {
+  @apply bg-[#3D3D3D] text-white;
+}

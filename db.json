@@ -1,0 +1,504 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": null,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": null,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Way Kambas Mini Ebony",
+      "price": 1024000,
+      "weight": 10,
+      "width": 10,
+      "length": 10,
+      "category": "1",
+      "discount": 10,
+      "caseDetail": "The case on this timepiece is made with Height 12.5mm, Width 36mm, Length 33mm and Dial Opening 25mm. The glass is equipped with K1 flat glass to increase the enhanced durability on timepieces as scratch resistant and anti fingerprint. This timepiece is also equipped with Hand Polish Brass Spacer for a longer usage periods.",
+      "dial": "In the dial, there are double layer of Makassar Ebony Veneer with 3, 9 & 12 o'clock laser cut brass plate index.",
+      "hand": "The hour, minute & small second hands on MATOA Way Kambas - Sumatran Rhino is outfitted with skeleton hand and brush finished with Gold Matte color. This new design aims at adding a value for this special edition.",
+      "material": "MATOA Way Kambas - Sumatran Rhino comes with a material form of Makassar Ebony (Diospyros celebica). This wood is chosen to represent the Sumatran Rhino's skin which is designed with an overlap effect on its strap to represent Rhino's skin. Sumatran Rhino has unique skin fold, the skin is fairly thin about 10-16mm, and is soft and pliable.",
+      "importantNote": "Wood color on watches is produced from a combination of mature and fresh wood but should not be viewed as a defect. It is a very natural process of wood aging.",
+      "movement": "For the first time, MATOA comes with Seiko Quartz VD78 movement with small second function. A small second hand is above 6 o'clock position. This second hand dial is dedicated to Sumatran Rhino whom every second of its life is so precious because whenever Sumatran Rhino goes, it can be threatened by illegal poaching",
+      "model": [
+        {
+          "name": "cream",
+          "qty": 20,
+          "photos": [
+            "/src/assets/pictures/wayKambas/1.png",
+            "/src/assets/pictures/wayKambas/2.png",
+            "/src/assets/pictures/wayKambas/3.png",
+            "/src/assets/pictures/wayKambas/4.png"
+          ]
+        },
+        {
+          "name": "jati",
+          "qty": 10,
+          "photos": ["image url from cloudinary", "image url from cloudinary"]
+        }
+      ]
+    },
+    {
+      "name": "test product okeoke",
+      "price": 20000,
+      "weight": 20,
+      "width": 20,
+      "length": 1,
+      "category": "3",
+      "discount": 1,
+      "caseDetail": "this is case",
+      "dial": "this is dial",
+      "hand": "this is hand",
+      "material": "this is material",
+      "importantNote": "important note",
+      "movement": "this is movement",
+      "model": [
+        {
+          "name": "model 1",
+          "qty": 20,
+          "photos": [
+            "https://res.cloudinary.com/dgvshxgo4/image/upload/v1701612163/dhfpf4ivoggwe59b25up.svg",
+            "https://res.cloudinary.com/dgvshxgo4/image/upload/v1701612170/m3xohdhokkcgv5cga3jz.jpg"
+          ]
+        },
+        {
+          "name": "model 2",
+          "qty": 9,
+          "photos": [
+            "https://res.cloudinary.com/dgvshxgo4/image/upload/v1701612186/tgolslksevchyn8xjgmb.png"
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "pokemon123",
+      "price": 213122,
+      "weight": 2,
+      "width": 2,
+      "length": 3,
+      "category": "2",
+      "discount": 1,
+      "caseDetail": "contoh",
+      "dial": "contoh",
+      "hand": "contoh",
+      "material": "contoh",
+      "importantNote": "contoh",
+      "movement": "contoh",
+      "model": [
+        {
+          "name": "contoh model 1",
+          "qty": 2,
+          "photos": [
+            "https://res.cloudinary.com/dgvshxgo4/image/upload/v1701662539/nz356thke9hgr9k8qfrc.webp",
+            "https://res.cloudinary.com/dgvshxgo4/image/upload/v1701662544/und8of8dcl69eknodvhr.png"
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "fajru@mail.com",
+      "password": "password"
+    },
+    {
+      "email": "was@mail.com",
+      "password": "password",
+      "id": 2
+    }
+  ]
+}
